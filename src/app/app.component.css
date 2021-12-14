@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.sec{
+    margin: 1rem;
+}
+.sec button{
+    padding: 7px 5px;
+    margin: 7px;
+    cursor: pointer;
+}
